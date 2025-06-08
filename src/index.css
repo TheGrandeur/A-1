@@ -1,4 +1,3 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -25,7 +24,7 @@
     --muted: 248 250 252;
     --muted-foreground: 100 116 139;
 
-    --accent: 255 127 80;
+    --accent: 173 216 230; /* Light Blue */
     --accent-foreground: 255 255 255;
 
     --destructive: 239 68 68;
@@ -53,7 +52,7 @@
     --indigo-600: 79 70 229;
     --coral-50: 255 247 245;
     --coral-100: 255 237 234;
-    --coral-500: 255 127 80;
+    --coral-500: 173 216 230; /* Light Blue */
     --coral-600: 255 99 71;
   }
 
@@ -76,7 +75,7 @@
     --muted: 30 41 59;
     --muted-foreground: 148 163 184;
 
-    --accent: 255 154 0;
+    --accent: 173 216 230; /* Light Blue */
     --accent-foreground: 15 23 42;
 
     --destructive: 239 68 68;
